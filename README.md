@@ -8,7 +8,7 @@
 - 📄 Check out my [resume](https://spb.hh.ru/resume/e0ae9c4cff0c2be42d0039ed1f51694c333074)
 
 <h2>Connect with me:</h2>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" height="30" width="40" /></a>
 <ul align="left">
 <h2>Some Languages and Tools I Use:</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
