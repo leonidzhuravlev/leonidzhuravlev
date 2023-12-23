@@ -40,6 +40,8 @@
 <li><a href="https://github.com/leonidzhuravlev/7_bash">Bash common commands✂️</a></li>
 <li><a href="https://github.com/leonidzhuravlev/8_git">Git basics🖇️</a></li>
 
+<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
+
 <h3 align="center"> Let's be in touch! </h3>
 <p align="center">
 <a href= "https://t.me/zurwar"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
