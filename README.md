@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
- </p>
+
  <h2>Test Artifacts </h2>
 <li>  <a href="https://github.com/leonidzhuravlev/1_testing_theory">Testing theory 📖</a></li>
 <li>  <a href="https://github.com/leonidzhuravlev/2_test_design_and_documentation">Test design 🎨 and Documentation 🗎</a></li>
@@ -46,3 +46,4 @@
 <li> <a href="https://github.com/leonidzhuravlev/7_bash">Bash common commands✂️</a></li>
 <li> <a href="https://github.com/leonidzhuravlev/8_git">Git basics🖇️</a></li>
  </ul>
+  </p>
