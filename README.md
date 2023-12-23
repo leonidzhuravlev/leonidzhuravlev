@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" height="30" width="40" /></a>
 </p>
-
+<ul>
 <h2>Some Languages and Tools I Use:</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
@@ -37,7 +37,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
  </p>
  <h2>Test Artifacts </h2>
- <ul>
 <li>  <a href="https://github.com/leonidzhuravlev/1_testing_theory">Testing theory 📖</a></li>
 <li>  <a href="https://github.com/leonidzhuravlev/2_test_design_and_documentation">Test design 🎨 and Documentation 🗎</a></li>
 <li> <a href="https://github.com/leonidzhuravlev/3_web_app_testing">Web app testing 📒, HTML and CSS practice 🦋</a></li>
