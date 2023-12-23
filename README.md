@@ -27,8 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/293189/css.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-
 </ul>
+
 <h2>Test Artifacts </h2>
 <li><a href="https://github.com/leonidzhuravlev/1_testing_theory">Testing theory 📖</a></li>
 <li><a href="https://github.com/leonidzhuravlev/2_test_design_and_documentation">Test design 🎨 and Documentation 🗎</a></li>
