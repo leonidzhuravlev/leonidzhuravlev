@@ -5,7 +5,7 @@
 
 - 📄 Check out my [resume](https://spb.hh.ru/resume/e0ae9c4cff0c2be42d0039ed1f51694c333074)
 
-<ul>
+<ul align="center">
 <h2 align="center">Some Languages and Tools I Use:</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="Youtrack" alt="Youtrack" width="40" height="40"/>
