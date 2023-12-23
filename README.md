@@ -30,7 +30,8 @@
 <img src="https://www.svgrepo.com/show/293189/css.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 </ul>
 
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
+<img align="right" src="https://github.com/leonidzhuravlev/leonidzhuravlev/assets/146559834/5e547e4a-9652-4053-92ac-bd63858606f5" height="245"> 
+
 
 <h2>Test Artifacts </h2>
 <li><a href="https://github.com/leonidzhuravlev/1_testing_theory">Testing theory 📖</a></li>
