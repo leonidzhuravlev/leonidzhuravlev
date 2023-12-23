@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonid Zhuravlev</h1>
 <h3 align="center">A passionate QA engineer from Ekaterinburg</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/leonidzhuravlev?tab=repositories](https://github.com/leonidzhuravlev?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/leonidzhuravlev?tab=repositories)
 
 - 📫 How to reach me **zhurawlyow@gmail.com**
 
