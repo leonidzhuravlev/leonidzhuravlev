@@ -30,7 +30,7 @@
 <img src="https://www.svgrepo.com/show/293189/css.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 </ul>
 
-<img align="right" src="https://media.giphy.com/media/ipLHkofbON7fYpXqCo/giphy.gif" height="245"> 
+<img align="right" src="https://media.giphy.com/media/ipLHkofbON7fYpXqCo/giphy.gif" height="280">
 
 
 <h2>Test Artifacts </h2>
