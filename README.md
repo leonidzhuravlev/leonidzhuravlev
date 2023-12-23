@@ -30,6 +30,8 @@
 <img src="https://www.svgrepo.com/show/293189/css.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 </ul>
 
+<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
+
 <h2>Test Artifacts </h2>
 <li><a href="https://github.com/leonidzhuravlev/1_testing_theory">Testing theory 📖</a></li>
 <li><a href="https://github.com/leonidzhuravlev/2_test_design_and_documentation">Test design 🎨 and Documentation 🗎</a></li>
@@ -39,8 +41,6 @@
 <li><a href="https://github.com/leonidzhuravlev/6_mobile_app_testing">Mobile app testing documentation📲Charles Proxy practice🦄</a></li>
 <li><a href="https://github.com/leonidzhuravlev/7_bash">Bash common commands✂️</a></li>
 <li><a href="https://github.com/leonidzhuravlev/8_git">Git basics🖇️</a></li>
-
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 
 <h3 align="center"> Let's be in touch! </h3>
 <p align="center">
