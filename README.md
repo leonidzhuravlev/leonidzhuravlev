@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zhurawlyow@gmail.com**
 
-- 📄 Know about my experiences [https://spb.hh.ru/resume/e0ae9c4cff0c2be42d0039ed1f51694c333074](https://spb.hh.ru/resume/e0ae9c4cff0c2be42d0039ed1f51694c333074)
+- 📄 Know about my experiences [HH.ru](https://spb.hh.ru/resume/e0ae9c4cff0c2be42d0039ed1f51694c333074)
 
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" height="30" width="40" /></a>
