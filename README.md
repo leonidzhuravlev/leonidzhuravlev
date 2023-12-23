@@ -3,13 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/leonidzhuravlev?tab=repositories)
 
-- 📫 How to reach me **zhurawlyow@gmail.com**
-
 - 📄 Check out my [resume](https://spb.hh.ru/resume/e0ae9c4cff0c2be42d0039ed1f51694c333074)
 
-<h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonid-zhuravlev-64a438273/" height="30" width="40" /></a>
-<ul>
+
 <h2 align="center">Some Languages and Tools I Use:</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
@@ -30,7 +26,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/293189/css.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+
 </ul>
 <h2>Test Artifacts </h2>
 <li><a href="https://github.com/leonidzhuravlev/1_testing_theory">Testing theory 📖</a></li>
