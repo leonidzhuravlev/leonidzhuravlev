@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonid Zhuravlev</h1>
-<h3 align="center">A passionate QA engineer from Ekaterinburg</h3>
+<h3 align="center">A passionate Software Testing Engineer from Ekaterinburg</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/leonidzhuravlev?tab=repositories)
 
