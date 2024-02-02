@@ -5,13 +5,6 @@
 
 - 📄 Check out [My CV](https://drive.google.com/file/d/1CMgZ6s4Jc7VXAeWca_MrnlLw3nOF7EGe/view?usp=sharing)
 
-<h3 align="center"> Let's be in touch! </h3>
-<p align="center">
-<a href= "https://t.me/zurwar"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-<a href= "mailto:zhurawlyow@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-<a href= "https://www.linkedin.com/in/leonid-zhuravlev-64a438273/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-</p>
-
 <ul align="center">
 <h2 align="center">Some Languages and Tools I Use:</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
@@ -50,4 +43,9 @@
 <li><a href="https://github.com/leonidzhuravlev/7_bash">Bash common commands✂️</a></li>
 <li><a href="https://github.com/leonidzhuravlev/8_git">Git basics🖇️</a></li>
 
-
+<h3 align="center"> Let's be in touch! </h3>
+<p align="center">
+<a href= "https://t.me/zurwar"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:zhurawlyow@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<a href= "https://www.linkedin.com/in/leonid-zhuravlev-64a438273/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+</p>
