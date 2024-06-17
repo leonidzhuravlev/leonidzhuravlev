@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/leonidzhuravlev?tab=repositories)
 
-- 📄 Check out [My CV](https://docs.google.com/document/d/1XbIuhbty8z5a_PikJtcAVc6HpSu_JDCIBHVa3ypU_xI/edit?usp=sharing)
+- 📄 Check out [My CV](https://docs.google.com/document/d/12K_PUKG8rjtaFV0IxkUu6j5zVOx9N9_nbXqIHPMo8_k/edit?usp=sharing)
 
 <ul align="center">
 <h2 align="center">Some Languages and Tools I Use:</h2>
